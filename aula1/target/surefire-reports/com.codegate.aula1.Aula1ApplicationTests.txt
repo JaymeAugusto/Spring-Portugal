@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.codegate.aula1.Aula1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.468 s - in com.codegate.aula1.Aula1ApplicationTests
